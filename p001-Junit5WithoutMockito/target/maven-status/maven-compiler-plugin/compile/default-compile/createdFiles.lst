@@ -1,0 +1,3 @@
+junit5withoutmockito\fake\Employee.class
+junit5withoutmockito\fake\EmployeeService.class
+junit5withoutmockito\fake\EmployeeRepository.class
